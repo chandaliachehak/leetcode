@@ -12,4 +12,12 @@
 | [1251-average-selling-price](https://github.com/chandaliachehak/leetcode/tree/main/1251-average-selling-price/) | Easy |
 | [1633-percentage-of-users-attended-a-contest](https://github.com/chandaliachehak/leetcode/tree/main/1633-percentage-of-users-attended-a-contest/) | Easy |
 | [1934-confirmation-rate](https://github.com/chandaliachehak/leetcode/tree/main/1934-confirmation-rate/) | Medium |
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0001-two-sum](https://github.com/chandaliachehak/leetcode/tree/main/0001-two-sum/) | Easy |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0001-two-sum](https://github.com/chandaliachehak/leetcode/tree/main/0001-two-sum/) | Easy |
 <!---LeetCode Topics End-->
