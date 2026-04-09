@@ -17,6 +17,7 @@
 | ------- | ------- |
 | [0001-two-sum](https://github.com/chandaliachehak/leetcode/tree/main/0001-two-sum/) | Easy |
 | [0056-merge-intervals](https://github.com/chandaliachehak/leetcode/tree/main/0056-merge-intervals/) | Medium |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/chandaliachehak/leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -31,4 +32,8 @@
 | ------- | ------- |
 | [0056-merge-intervals](https://github.com/chandaliachehak/leetcode/tree/main/0056-merge-intervals/) | Medium |
 | [0242-valid-anagram](https://github.com/chandaliachehak/leetcode/tree/main/0242-valid-anagram/) | Easy |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/chandaliachehak/leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 <!---LeetCode Topics End-->
