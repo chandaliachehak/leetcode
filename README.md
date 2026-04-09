@@ -16,6 +16,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/chandaliachehak/leetcode/tree/main/0001-two-sum/) | Easy |
+| [0056-merge-intervals](https://github.com/chandaliachehak/leetcode/tree/main/0056-merge-intervals/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -28,5 +29,6 @@
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0056-merge-intervals](https://github.com/chandaliachehak/leetcode/tree/main/0056-merge-intervals/) | Medium |
 | [0242-valid-anagram](https://github.com/chandaliachehak/leetcode/tree/main/0242-valid-anagram/) | Easy |
 <!---LeetCode Topics End-->
