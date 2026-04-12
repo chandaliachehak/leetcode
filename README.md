@@ -46,4 +46,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0561-array-partition](https://github.com/chandaliachehak/leetcode/tree/main/0561-array-partition/) | Easy |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0007-reverse-integer](https://github.com/chandaliachehak/leetcode/tree/main/0007-reverse-integer/) | Medium |
 <!---LeetCode Topics End-->
